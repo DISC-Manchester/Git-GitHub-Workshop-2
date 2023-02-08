@@ -1,0 +1,12 @@
+body {
+	background: #0f0f0f;
+	color: #f0f0f0;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+td {
+	border: solid;
+}
