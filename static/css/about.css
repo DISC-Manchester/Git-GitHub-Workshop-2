@@ -1,6 +1,10 @@
 .container {
-    margin-left: 560px;
-    width: 800px;
+    margin-left: 25vw;
+    width: 50vw;
+}
+
+.container img {
+    width: 50vw;
 }
 
 /* DO NOT CHANGE ANYTHING BELOW THIS LINE */
